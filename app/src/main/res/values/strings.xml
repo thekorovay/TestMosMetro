@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test MosMetro</string>
+    <string name="err_msg_unable_load_tweets">Не удалось загрузить твиты\n\nПроверьте ваше интернет соединение или попробуйте позже</string>
+    <string name="err_msg_no_tweets">В ленте сейчас нет твитов\n\nВозвращайтесь позже!</string>
+    <string name="btn_reload">Обновить</string>
+    <string name="moscow_metro">Московское метро</string>
+    <string name="moscow_metro_tag">\@MetroOperativno</string>
+    <string name="mosmetro_acc_desc">Официальный твиттер-аккаунт Московского метрополитена по оперативному информированию о работе метро.</string>
+</resources>
